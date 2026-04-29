@@ -1,8 +1,4 @@
 Install My Canon Printer to Computer
-====================================
-
-Follow these steps:
-
 -------------
 
 Step 1 - Open your web browser
@@ -34,5 +30,3 @@ Step 9 - Check printer settings
 
 Step 10 - Print a test page
 - Print a sample page to ensure your printer is working correctly.
-
-Your printer is ready to use.

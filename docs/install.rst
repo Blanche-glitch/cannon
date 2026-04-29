@@ -7,6 +7,7 @@ Follow these steps:
 Go to your web browser and open the Canon setup page to begin installation.
 
 **Step 2 - Enter your printer model**  
+
 Type your Canon printer model number to find the correct setup file.
 
 **Step 3 - Download the setup file**  
